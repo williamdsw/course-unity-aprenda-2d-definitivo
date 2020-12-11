@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Armas>
+	<arma atributo="nome">
+		<armas>
+			<a>Sword A</a>
+			<a>Espada B</a>
+			<a>Espada C</a>
+			<a>Espada D</a>
+			<a>Espada E</a>
+			<a>Espada F</a>
+			<a>Espada G</a>
+			<a>Espada H</a>
+			<a>Espada I</a>
+			<a>Espada J</a>
+			<a>Machado A</a>
+			<a>Machado B</a>
+			<a>Machado C</a>
+			<a>Machado D</a>
+			<a>Machado E</a>
+			<a>Bow A</a>
+			<a>Bow B</a>
+			<a>Bow C</a>
+			<a>Martelo A</a>
+			<a>Martelo B</a>
+			<a>Martelo C</a>
+			<a>Martelo D</a>
+			<a>Martelo E</a>
+			<a>Maça A</a>
+			<a>Maça B</a>
+			<a>Maça C</a>
+			<a>Maça D</a>
+			<a>Maça E</a>
+			<a>Staff A</a>
+			<a>Staff B</a>
+			<a>Staff C</a>
+			<a>Staff D</a>
+			<a>Staff E</a>
+		</armas>
+	</arma>
+	<arma atributo="icone">
+		<armas>
+			<a>espadaA</a>
+			<a>espadaB</a>
+			<a>espadaC</a>
+			<a>espadaD</a>
+			<a>espadaE</a>
+			<a>espadaF</a>
+			<a>espadaG</a>
+			<a>espadaH</a>
+			<a>espadaI</a>
+			<a>espadaJ</a>
+			<a>machadoA</a>
+			<a>machadoB</a>
+			<a>machadoC</a>
+			<a>machadoD</a>
+			<a>machadoE</a>
+			<a>arcoA</a>
+			<a>arcoB</a>
+			<a>arcoC</a>
+			<a>marteloA</a>
+			<a>marteloB</a>
+			<a>marteloC</a>
+			<a>marteloD</a>
+			<a>marteloE</a>
+			<a>macaA</a>
+			<a>macaB</a>
+			<a>macaC</a>
+			<a>macaD</a>
+			<a>macaE</a>
+			<a>cajadoA</a>
+			<a>cajadoB</a>
+			<a>cajadoC</a>
+			<a>cajadoD</a>
+			<a>cajadoE</a>
+		</armas>
+	</arma>
+	<arma atributo="categoria">
+		<armas>
+			<a>Espada</a>
+			<a>Espada</a>
+			<a>Espada</a>
+			<a>Espada</a>
+			<a>Espada</a>
+			<a>Espada</a>
+			<a>Espada</a>
+			<a>Espada</a>
+			<a>Espada</a>
+			<a>Espada</a>
+			<a>Machado</a>
+			<a>Machado</a>
+			<a>Machado</a>
+			<a>Machado</a>
+			<a>Machado</a>
+			<a>Arco</a>
+			<a>Arco</a>
+			<a>Arco</a>
+			<a>Martelo</a>
+			<a>Martelo</a>
+			<a>Martelo</a>
+			<a>Martelo</a>
+			<a>Martelo</a>
+			<a>Maca</a>
+			<a>Maca</a>
+			<a>Maca</a>
+			<a>Maca</a>
+			<a>Maca</a>
+			<a>Staff</a>
+			<a>Staff</a>
+			<a>Staff</a>
+			<a>Staff</a>
+			<a>Staff</a>
+		</armas>
+	</arma>
+	<arma atributo="dano-minimo">
+		<armas>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+		</armas>
+	</arma>
+	<arma atributo="dano-maximo">
+		<armas>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+			<a>1</a>
+		</armas>
+	</arma>
+	<arma atributo="tipo-dano">
+		<armas>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+			<a>0</a>
+		</armas>
+	</arma>
+</Armas>
